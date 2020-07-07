@@ -1,8 +1,11 @@
 # Curso virtual de Python
 
-En este repositorio se encuentran algunos materiales adicionales utilizados en el curso virtual de Python. El contenido principal de los seminarios impartidos en el Banco de Guatemala se encuentra publicado gratuitamente en los siguientes enlaces y repositorios: 
+En este repositorio se encuentran algunos materiales adicionales utilizados en el curso virtual de Python. 
 
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) -->
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DIE-BANGUAT/Python-virtual-BG/blob/master)
+
+El contenido principal de los seminarios impartidos en el Banco de Guatemala se encuentra publicado gratuitamente en los siguientes enlaces y repositorios: 
+
 
 ## Python Programming for Economics and Finance: 
 
