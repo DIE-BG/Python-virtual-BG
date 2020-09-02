@@ -1,0 +1,3 @@
+# Model and model weights
+*.json
+*.h5
